@@ -1,0 +1,1 @@
+Arquivo de exemplo commit by command line
